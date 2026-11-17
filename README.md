@@ -14,4 +14,4 @@ node serve.ts # then open http://localhost:8080 — or simply open game/index.ht
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=REFERRAL_CODE_TBD&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=2k0s76w9&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
